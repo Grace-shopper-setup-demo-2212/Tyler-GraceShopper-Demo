@@ -1,6 +1,6 @@
 # FS-App-Template
 
-I am trying to push directly to main, AGAIN!
+I am trying to push directly to main
 
 ## Setup
 
